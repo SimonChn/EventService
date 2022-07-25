@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "97e/a230V4BaRJ7In9VI4Cx/3WWV5fLljDtMQRAPYYeiXIbzX+W6fepe934jBfpGTS8epMt7mC7b0fAPY6dDuA==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\Unity\\MProjects\\EventServiceProject\\EventTracker\\Assets\\.EventService\\EventServiceNet2.1\\EventService\\EventService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\banan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

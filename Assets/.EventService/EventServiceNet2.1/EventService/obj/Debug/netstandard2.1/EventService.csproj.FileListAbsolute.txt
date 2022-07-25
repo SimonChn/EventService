@@ -1,0 +1,10 @@
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\bin\Debug\netstandard2.1\EventService.deps.json
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\bin\Debug\netstandard2.1\EventService.dll
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\bin\Debug\netstandard2.1\EventService.pdb
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.csproj.AssemblyReference.cache
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.AssemblyInfoInputs.cache
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.AssemblyInfo.cs
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.csproj.CoreCompileInputs.cache
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.dll
+D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.pdb
