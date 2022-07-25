@@ -151,8 +151,6 @@ namespace EventService
                 //TODO: Proceed network async exceptions
             }
 
-            ClearEventsToSend();
-
             semaphoreSlim.Release();
         }
 

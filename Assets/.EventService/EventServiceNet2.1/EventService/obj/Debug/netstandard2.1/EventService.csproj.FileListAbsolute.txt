@@ -8,3 +8,13 @@ D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\Event
 D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.csproj.CoreCompileInputs.cache
 D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.dll
 D:\Learn\C#\EventTrackerService\EventTrackerTestProject\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.pdb
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\bin\Debug\netstandard2.1\EventService.deps.json
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\bin\Debug\netstandard2.1\EventService.dll
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\bin\Debug\netstandard2.1\EventService.pdb
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.csproj.AssemblyReference.cache
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.AssemblyInfoInputs.cache
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.AssemblyInfo.cs
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.csproj.CoreCompileInputs.cache
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.dll
+D:\Learn\Unity\MProjects\EventServiceProject\EventTracker\Assets\.EventService\EventServiceNet2.1\EventService\obj\Debug\netstandard2.1\EventService.pdb
